@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on Data Analytics
-- 🌱 I’m currently learning Data Science
+- 🔭 I’m currently working on Data analytics
+- 🌱 I’m currently learning Data science
 - 👯 I’m looking to collaborate on Exploratory data analysis
 - 🤔 I’m looking for help with Predictive modeling
 - 💬 Ask me about Machine & Deep Learning
@@ -16,15 +16,13 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="www.linkedin.com/in/
-andrea-mendoza-zabaleta">
+        <a style="margin-left: 10px;"  target="_blank" href="www.linkedin.com/in/andrea-mendoza-zabaleta">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">		
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/acmendoza94?igsh=MnBjbTlzMWp6c2Jr&utm_source=qr">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://x.com/acmendoza_94?s=11">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="www.youtube.com/@andreamendoza6230">
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@andreamendoza6230">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
       </div>
 
